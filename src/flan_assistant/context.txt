@@ -1,0 +1,3 @@
+FLAN-T5 is a language model family by Google. This project uses google/flan-t5-small
+for local summarization and constrained Q&A. The assistant should answer questions
+only from this context and return "Not found" when the information is not present.
